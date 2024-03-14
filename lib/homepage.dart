@@ -74,17 +74,17 @@ class _HomePageState extends State<HomePage> {
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
               Image.asset(
-                'lib/icons/wallet.png',
+                'images/assests/wallet.png',
                 height: 100,
                 width: 110,
               ),
               Image.asset(
-                'lib/icons/click.png',
+                'images/assets/click.png',
                 height: 100,
                 width: 110,
               ),
               Image.asset(
-                'lib/icons/dish.png',
+                'images/assets/dish.png',
                 height: 100,
                 width: 110,
               ),
